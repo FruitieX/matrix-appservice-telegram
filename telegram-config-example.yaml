@@ -1,0 +1,6 @@
+telegram_api_token: 'Telegram Bot API token here'
+telegram_group_name: 'Exact name (case sensitive) of Telegram group your bot is invited to'
+telegram_enable_polling: true
+matrix_room_id: 'Internal ID of Matrix room (e.g. !RandomCharacters:domain.org)'
+matrix_domain: 'domain.org'
+matrix_homeserver_url: 'http://localhost:8008'
